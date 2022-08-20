@@ -1,0 +1,84 @@
+
+body {
+  font-family: verdana,arial,sans-serif,helvetica;
+}
+
+.header {
+  background-color: #039;
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  font-size: 13px;
+
+}
+
+.col-left {
+  text-align: left;
+}
+
+
+.col-middle {
+  text-align: left;
+}
+
+.col-right {
+  text-align: right;
+}
+
+.google {
+  padding-top: 6px;
+}
+
+.myspace-logo {
+  padding-top: 20px;
+}
+
+
+.middle {
+  margin: auto;
+  background-color: #6698CB;
+  width: 1000px;
+  color: #040C5C;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: #040C5C;
+}
+
+
+
+.content {
+  width: 1000px;
+  margin: auto;
+  padding: 10px;
+}
+
+
+.content-row {
+  background-color: red;
+}
+
+.content-col-1 {
+
+
+}
+
+
+
+
+
+
+.content-col-2 {
+  background-color: orange;
+}
